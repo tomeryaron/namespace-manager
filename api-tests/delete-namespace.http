@@ -1,0 +1,6 @@
+DELETE http://localhost:8080/api/namespaces/delete
+Content-Type: application/json
+
+{
+  "name": "test-namespace"
+}

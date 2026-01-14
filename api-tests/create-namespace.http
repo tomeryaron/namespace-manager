@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/namespaces/create
+Content-Type: application/json
+
+{
+  "name": "test-namespace",
+  "ttl": 24,
+  "owner": "Tomer",
+  "team": "DevOps"
+}
