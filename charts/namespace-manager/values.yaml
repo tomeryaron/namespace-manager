@@ -1,5 +1,10 @@
 replicaCount: 1
 
+# Optional: Override the name used in labels
+nameOverride: ""
+# Optional: Override the full name
+fullnameOverride: ""
+
 image:
   repository: namespace-manager
   pullPolicy: IfNotPresent

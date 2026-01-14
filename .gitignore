@@ -1,6 +1,6 @@
 # Binaries and executables
-namespace-manager
-namespace-manager-mac
+/namespace-manager
+/namespace-manager-mac
 *.exe
 *.exe~
 *.dll
